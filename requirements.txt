@@ -12,7 +12,6 @@ llama-index-program-openai==0.3.1
 llama-index-question-gen-openai==0.3.0
 llama-index-readers-file==0.4.4
 llama-index-readers-llama-parse==0.4.0
-llama-index-vector-stores-lancedb==0.3.0
 llama-parse==0.5.20
 nltk==3.9.1
 numpy==2.2.2
@@ -28,3 +27,8 @@ pypdf==5.1.0
 python-dotenv==1.0.1
 uvicorn==0.34.0
 fastapi==0.115.8
+selenium==4.28.1
+webdriver-manager==4.0.2
+websocket-client==1.8.0
+wsproto==1.2.0
+yarl==1.18.3
